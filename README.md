@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 📝 I regularly write articles on [https://medium.com/@indikasandun](https://medium.com/@indikasandun)
-
 - 💬 Ask me about **MERN, ReactJS**
 
 - 📫 How to reach me **indikasandun2015@gmail.com**
