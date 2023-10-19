@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **indikasandun2015@gmail.com**
 
-- ⚡ Fun fact **I am Creative**
+- ⚡ **I am Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
