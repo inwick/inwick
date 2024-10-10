@@ -9,9 +9,8 @@
 
 - 💬 Ask me about **MERN, ReactJS**
 
-- 📫 How to reach me **indikasandun2015@gmail.com**
+- 📫 How to reach me **indikasandun.21@gmail.com**
 
-- ⚡ **I am Creative**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
